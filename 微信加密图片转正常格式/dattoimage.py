@@ -6,8 +6,8 @@
 # 自动计算异或 值
 import os
 
-into_path = r'C:\Users\ASCV\Documents\WeChat Files\wxid_2gzqnfk3uruj22\FileStorage\Image\2022-05'  # 微信image文件路径
-out_path = r"C:\Users\ASCV\Documents\WeChat Files\wxid_2gzqnfk3uruj22\FileStorage\Image\2022-05\jpg" # 输出文件 这一个目录只是转换，还未整理等下学期结束再整理
+into_path = r'C:\Users\ASCV\Documents\WeChat Files\wxid_2gzqnfk3uruj22\FileStorage\MsgAttach\850966fbfd8ec7b3b69ae98c681f2754\Image\2022-07'  # 微信image文件路径
+out_path = r"C:\Users\ASCV\Documents\WeChat Files\wxid_2gzqnfk3uruj22\FileStorage\MsgAttach\850966fbfd8ec7b3b69ae98c681f2754\Image\2022-07\jpg" # 输出文件 这一个目录只是转换，还未整理等下学期结束再整理
  
 def main(into_path, out_path):
 
